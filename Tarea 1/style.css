@@ -1,0 +1,36 @@
+#page {
+    background-color: #F5F5F5;
+}
+
+#nav ul li{
+    float: right;
+    margin-top: 2px;
+    margin-right: 5px;
+    border-radius: 20px;
+    background-color: #fea500;
+    display: inline;
+    padding: 5px;  
+}
+
+ul{    
+    top: 3%;
+}
+
+#content{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    margin-left: 5px;
+}
+h2{
+    color: #fea500;
+    margin-top:0px;
+    margin-left:10px;
+}
+p{
+    margin-left:10px;
+    margin-bottom:0px;
+}
